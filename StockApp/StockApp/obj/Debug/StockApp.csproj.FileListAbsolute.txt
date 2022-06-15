@@ -1,0 +1,10 @@
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\bin\Debug\StockApp.exe
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\bin\Debug\StockApp.pdb
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\obj\Debug\StockApp.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\obj\Debug\StockApp.Form1.resources
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\obj\Debug\StockApp.Properties.Resources.resources
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\obj\Debug\StockApp.csproj.GenerateResource.Cache
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\obj\Debug\StockApp.exe
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\obj\Debug\StockApp.pdb
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\obj\Debug\StockApp.Form3.resources
+C:\Users\USUARIO_5\Desktop\mauricio torilla - juan pablo villalba - 6to 2da\StockApp\StockApp\obj\Debug\StockApp.Form2.resources
